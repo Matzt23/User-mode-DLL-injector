@@ -1,4 +1,4 @@
-# Win32 DLL Injector
+# Win32 DLL Injector I might expand it in the future.
 
 A stable user‑mode DLL injector for Windows, designed for offline and unprotected applications.
 
