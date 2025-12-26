@@ -1,0 +1,7 @@
+## Requirements
+
+- Windows 10 / 11 (x64 recommended)
+- .NET 8.0 Runtime
+  - x86 runtime for the 32-bit injector
+  - x64 runtime for the 64-bit injector
+- Administrator privileges recommended for injecting into elevated processes
